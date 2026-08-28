@@ -6,3 +6,5 @@ app_publisher = "JB Grocers LLP"
 app_description = "JB Core App - Phase R shared server and client script estate for jh"
 app_email = "sachingoel24@gmail.com"
 app_license = "MIT"
+
+required_apps = ["erpnext"]
